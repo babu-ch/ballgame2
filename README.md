@@ -1,6 +1,6 @@
 # ballgame
 
-https://babu-ch.github.io/ballgame/
+https://babu-ch.github.io/ballgame2/
 
 # devlop
 
